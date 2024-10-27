@@ -15,7 +15,7 @@ This is a clone of the MyDialog app, designed to replicate the functionalities a
 
 - **React Native**: Built with React Native for cross-platform compatibility.
 - **Expo**: Managed workflow using Expo for quick development and deployment.
-- **UI Libraries**: Tailored UI components for a native feel.
+- **UI Libraries**: -.
 
 ## How to Install
 
