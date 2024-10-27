@@ -2,11 +2,11 @@
 
 This is a clone of the MyDialog app, designed to replicate the functionalities and interface of the original app used in Sri Lanka for managing Dialog mobile accounts. The app includes data tracking, quick reloading, recommended data packages, and more, just like the original MyDialog app.
 
-![Screenshot 2024-10-27 114859](https://github.com/user-attachments/assets/e5e25211-6026-4d86-bc8d-2e1fb7daecac)
+<img src="https://github.com/user-attachments/assets/e5e25211-6026-4d86-bc8d-2e1fb7daecac" height="300" width="auto"/>
 
 ## Features
 
-- **Real-Time Balance Tracking**: Easily view remaining data, voice, and SMS balances in one place.
+- **Balance Tracking**: Easily view remaining data, voice, and SMS balances in one place.
 - **Quick Reload Option**: Simple and fast access to reload options for topping up your balance.
 - **Package Recommendations**: View recommended data packages and add-ons to suit your usage.
 - **User-Friendly Interface**: Designed with an intuitive interface similar to the MyDialog app for a seamless experience.
